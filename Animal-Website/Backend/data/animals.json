@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1745735370966",
+    "name": "Frilled Shark",
+    "scientificName": "Chlamydoselachus anguineus",
+    "about": "A deep-sea shark with an eel-like body and frilled gill slits.",
+    "images": [
+      "https://static.wixstatic.com/media/06cb1a_82db3b62bf084589b8764560e05d1329~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "https://img.freepik.com/premium-photo/terrifying-single-shark-with-its-mouth-open-ready-attack_916191-14125.jpg",
+      "https://cdna.artstation.com/p/marketplace/presentation_assets/000/732/650/large/file.jpg?1613842677",
+      "images/frilled-shark-hunting-schools-fish-deep-sea-captures-intense-action-pursuit-its-prey-mouth-wide-open-355544694.webp",
+      "images/frilled-shark-deepsea-monster_107062-22295.avif"
+    ],
+    "videos": [
+      "https://youtu.be/P8TT90LWYaw"
+    ],
+    "events": [
+      {
+        "name": "Shark Week",
+        "date": "2024-08-10",
+        "url": "https://natgeo.com"
+      }
+    ],
+    "creator": "Kranthi"
+  },
+  {
+    "id": "1745874455804",
+    "name": "Southern Cassowary",
+    "scientificName": "Casuarius casuarius",
+    "about": "The Southern Cassowary is a large, flightless bird native to the tropical forests of New Guinea, nearby islands, and northern Australia. It is known for its striking blue skin, helmet-like casque, and powerful legs. Cassowaries are shy but can be dangerous if threatened.",
+    "images": [
+      "https://koalapets.com/wp-content/uploads/2022/04/cassowary-enclosure-1024x576.jpg",
+      "https://th.bing.com/th/id/OSK.HEROVtjkplrBdwwU-Sq2Lz1Lf7HyCVJO_-xtoiyEPZs-_FQ?cb=iwc1&rs=1&pid=ImgDetMain",
+      "https://www.wildbirdscoop.com/wp-content/uploads/2023/06/Southern-cassowary.jpg",
+      "https://birdlife.org.au/wp-content/uploads/2023/09/Martin-Stringer-Southern-Cassawary.jpg"
+    ],
+    "videos": [
+      "https://youtu.be/UcBBeiRfq2g"
+    ],
+    "events": [
+      {
+        "name": "Cassowary Awareness Day",
+        "date": "2024-05-28",
+        "url": "https://wildlife.org.au/southern-cassowary/"
+      },
+      {
+        "name": "Rainforest Conservation Summit",
+        "date": "2024-09-10",
+        "url": "https://natgeo.com"
+      }
+    ],
+    "creator": "Kranthi"
+  },
+
+  {
+    "id": "1745874455343",
+    "name": "Blue Poison Dart Frog",
+    "scientificName": "Dendrobates tinctorius 'azureus'",
+    "about": [
+      "The blue poison dart frog is a small, vibrant amphibian known for its brilliant blue skin.",
+      "Despite its name, frogs in captivity aren't toxic as they derive poison from their wild diet."
+    ],
+    "images": [
+
+      "https://i.pinimg.com/originals/3d/35/6c/3d356c245d5821cfba3a6a327f4d7ef5.jpg",
+      "https://th.bing.com/th/id/OIP.E1IsfYo8U8QBQ12gX2jgTgHaE7?cb=iwc1&rs=1&pid=ImgDetMain",
+      "https://th.bing.com/th/id/R.12cd1acbf2e4a92a5eec7f7f75244096?rik=azur%2fPow25uoPw&riu=http%3a%2f%2fphotos.demandstudios.com%2fgetty%2farticle%2f99%2f23%2f152515050.jpg&ehk=gEN1vMfHMrcKP8ED1nKAwG2ui7QzJqybnghqKSlV3aU%3d&risl=&pid=ImgRaw&r=0",
+      "https://i.pinimg.com/originals/c7/cb/78/c7cb7876bb00ec2e861ed66fc77afba2.jpg"
+
+
+    ],
+    "videos": [
+      "https://youtu.be/j_bSad7gxlk"
+    ],
+    "events": [
+      {
+        "name": "World Amphibian Day",
+        "date": "04/30/2024",
+        "url": "https://example.com/frog-awareness"
+      }
+    ],
+     "creator": "Kranthi"
+  },
+
+  {
+    "id": "1745874455449",
+    "name": "Four-Toed Jerboa",
+    "scientificName": "Allactaga tetradactyla",
+    "about": "The Four-Toed Jerboa is a small nocturnal rodent known for its extraordinary jumping ability, using its long hind legs and tail for balance. It lives in desert and semi-desert environments and is adapted to dry, arid conditions with minimal water needs.",
+    "images": [
+      "https://www.joelsartore.com/wp-content/uploads/stock/ANI012/ANI012-00368-1920x1278.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiCySXcZNP1bu1nt8ODumERVpBhDvZVwKtXkthg1n8vDG-xd8IDOuqfadpiAP23C0Qyo&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohktQXWb1uH1LRkLBXG6vperq3frv2FSHuw&s"
+    ],
+    "videos": [
+      "https://youtu.be/_jdjBcsPBXs"
+    ],
+    "events": [
+      {
+        "name": "Jerboa Awareness Webinar",
+        "date": "2024-09-15",
+        "url": "https://www.natgeokids.com/jerboa-event"
+      },
+      {
+        "name": "Desert Rodents Virtual Tour",
+        "date": "2024-10-10",
+        "url": "https://www.nationalgeographic.com/virtual-tour-jerboa"
+      }
+    ],
+    "creator": "Kranthi"
+  }
+  
+  
+]

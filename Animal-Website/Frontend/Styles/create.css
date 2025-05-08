@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .form-container {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #animal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  #animal-form input,
+  #animal-form textarea {
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  #animal-form button {
+    padding: 10px;
+    background-color: #e4b007;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #animal-form button:hover {
+    background-color: #cfa000;
+  }
+  
+  #error-message {
+    color: red;
+    min-height: 20px;
+    margin-top: 5px;
+  }
+
+   
+  .footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .footer h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  .navbar {
+    border-bottom: 2px solid black;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    position: sticky;
+    gap: 10px;
+    padding: 0 15px;
+  }
+  
+  .nav-logo {
+    height: 40px;
+    object-fit: contain;
+  }
+  
